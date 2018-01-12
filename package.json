@@ -1,0 +1,16 @@
+{
+  "name": "@diegovdc/tap",
+  "version": "1.0.0",
+  "description": "Useful console logging functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node watch-me.test.js",
+    "watch": "nodemon --inspect watch-me.test.js"
+  },
+  "keywords": ["console.log", "logging"],
+  "author": "Diego Villaseñor",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
