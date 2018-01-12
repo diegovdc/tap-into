@@ -1,5 +1,5 @@
 {
-  "name": "@diegovdc/tap",
+  "name": "tap-logger",
   "version": "1.0.0",
   "description": "Useful console logging functions",
   "main": "index.js",
