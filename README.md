@@ -1,7 +1,7 @@
-# tap-into
+# tap-logger
 
 ## Installation
-`npm i tap-into`
+`npm i tap-logger`
 
 ## Usage
 ```
